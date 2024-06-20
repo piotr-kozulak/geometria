@@ -6,6 +6,8 @@
 #define GEOMETRIA_GEOMETRY_H
 using namespace std;
 
+using namespace std;
+
 class Square
 {
 private:
@@ -32,4 +34,5 @@ public:
     double getArea()const;
     double getPerimeter()const;
 };
+
 #endif //GEOMETRIA_GEOMETRY_H
